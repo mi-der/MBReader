@@ -1,1 +1,1 @@
-# MagicBandReader
+# MBReader
